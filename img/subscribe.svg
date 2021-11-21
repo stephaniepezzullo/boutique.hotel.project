@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="40" viewBox="0 0 262 40">
+  <g id="Group_24" data-name="Group 24" transform="translate(-624 -3008)">
+    <g id="Required_Field" data-name="Required Field" transform="translate(623.527 3008)">
+      <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(0.473)" fill="none" stroke="#fff" stroke-width="1">
+        <path d="M4,0H210a0,0,0,0,1,0,0V40a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H209a.5.5,0,0,1,.5.5V39a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,36V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <text id="Email_Address" data-name="Email Address" transform="translate(20.473 24)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Email Address</tspan></text>
+    </g>
+    <g id="button" transform="translate(826.407 3008)">
+      <path id="Rectangle_131" data-name="Rectangle 131" d="M0,0H56a4,4,0,0,1,4,4V36a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-0.407)" fill="#fff"/>
+      <text id="OK" transform="translate(29.593 24)" fill="#644536" font-size="10" font-family="ArialMT, Arial"><tspan x="-7.224" y="0">OK</tspan></text>
+    </g>
+  </g>
+</svg>

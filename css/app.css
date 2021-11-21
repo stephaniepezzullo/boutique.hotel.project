@@ -1,0 +1,348 @@
+header{
+  background-color: #644536;
+  margin: -3rem;
+
+}
+
+header a{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  padding: 1rem;
+  font-size: 1.5rem;
+  }
+header img{
+  width: 40%;
+  margin-top: 1rem;
+}
+
+
+.hero{
+  display: grid;
+}
+
+.hero * {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.hero h1{
+  z-index: 1;
+  align-self: center;
+  justify-self: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+padding-top: 7rem;
+padding-left: 3rem;
+ text-align: center;
+  font-weight: 900;
+  color:#644536 ;
+  background-color: white;
+  opacity: 80%;
+  padding: 1rem;
+
+
+}
+
+@media screen and (min-width: 40em){
+.hero h1{
+  font-size: 3rem;
+}
+
+
+}
+
+.hero img{
+  width: 100%;
+}
+.rooms{
+  padding: 2rem;
+}
+
+.rooms h1{
+  text-align: center;
+  padding-bottom: 1rem;
+  font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+color: #644536;
+font-weight: 900;
+
+}
+.room-img {
+padding-top: ;
+}
+
+.room-text{
+background-color: #69765D;
+padding-left: 1rem;
+
+
+
+}
+.room-text h1{
+font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+color: white;
+font-weight: 400;
+padding-top: 1rem;
+text-align: center;
+
+
+}
+
+.room-text p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 1.3rem;
+  color: white;
+  padding: 1.5rem;
+  paddding-left: 2rem;
+}
+
+.dock{
+  padding: 2rem;
+}
+
+.dock-img {
+
+}
+
+.dock-text{
+background-color: #644536;
+padding-left: 1rem;
+
+
+
+}
+
+.dock h1{
+  text-align: center;
+  padding-bottom: 1rem;
+  font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+font-weight: 900;
+color: #644536;
+
+
+
+}
+.dock-text h1{
+font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+color: white;
+padding-top: 1rem;
+text-align: center;
+font-weight: 400;
+
+
+}
+
+.dock-text p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 1.2rem;
+  color: white;
+  padding-right: 1rem;
+}
+
+.waterski{
+  padding: 2rem;
+}
+
+.waterski-img {
+  
+}
+
+.waterski-text{
+background-color: #69765D;
+padding-left: 1rem;
+
+
+
+}
+
+.waterski h1{
+  text-align: center;
+  padding-bottom: 1rem;
+  font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+color: #644536;
+
+font-weight: 900;
+
+}
+.waterski-text h1{
+font-family: 'Lato', sans-serif;
+font-size: 2.5rem;
+color: white;
+padding-top: 1rem;
+text-align: center;
+font-weight: 400;
+
+}
+
+.waterski-text p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 1.3rem;
+  color: white;
+  padding-right: 1rem;
+}
+
+.testomonials{
+  background-color: #69765D;
+  padding: 2rem;
+
+}
+
+.testomonials p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: white;
+  padding: 2rem;
+
+}
+
+.title h1{
+  padding-bottom: 1rem;
+  text-align: center;
+  font-size: 2rem;
+ 
+
+}
+.orbit{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 1rem;
+  background-color: white;
+}
+.orbit-slide img{
+width: 100%;
+
+}
+
+.orbit-previous{
+  color: #69765D;
+}
+.orbit-next{
+  color:#69765D ;
+}
+
+
+.testomonials h1 {
+font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: white;
+  padding-left: 2rem;
+
+
+}
+
+.table{
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 0rem;
+
+}
+.reservation {
+  background-color:  #644536;
+
+}
+
+.reservation h1{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 4;
+  color: white;
+  text-align: center;
+}
+
+.reservation h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 1;
+  color: white;
+  text-align: center;
+  margin-bottom: 0rem;
+}
+
+thead {
+  background-color: #644536;
+  border: none;
+  color: white;
+
+}
+
+thead .submit {
+  background-color: #69765D;
+  border-radius: 10px;
+}
+
+.reveal{
+  background-color:#644536 ;
+  border: none;
+}
+
+.reveal h1{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.reveal h2{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+
+}
+
+footer{
+  background-color: #483830;
+  font-family: 'Lato', sans-serif;
+
+}
+
+footer li{
+  list-style: none;
+  font-family: 'Lato', sans-serif;
+  padding: 2rem;
+
+  color: white;
+
+
+}
+
+footer h1{
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  color: white;
+  text-align: left;
+  padding: 2rem;
+
+}
+
+/* CODE FOR ACCESSIBLE SKIP LINK – DO NOT DELETE */
+
+.skip-link {
+  position: absolute;
+  padding: .5rem 1rem;
+  color: #fff;
+  background-color: #212121;
+  text-decoration: none;
+  z-index: 10;
+  transform: translateY(-100%);
+  transition: transform .3s ease-out;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+  outline: #fff solid .125rem;
+}
+
+@media print {
+  .skip-link {
+    display: none;
+  }
+}
